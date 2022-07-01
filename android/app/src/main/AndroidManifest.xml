@@ -2,7 +2,7 @@
     package="com.example.youtube">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="youtube"
+        android:label="Yellow class"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
